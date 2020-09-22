@@ -1,4 +1,4 @@
-#centered {
+.centered {
   text-align: center;
 }
 
@@ -14,16 +14,17 @@ subtitle {
   background-color: gray;
 }
 
-#li {
+li {
   list-style-type: none;
 }
 
 #content {
+  font-size: 10px;
   text-decoration: underline;
   background: grey;
 }
 
-monospaced {
+.monospaced {
   font-family: monospace;
 }
 

@@ -1,1 +1,26 @@
 /* ...crickets... */
+
+*{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h1.title {
+    text-align: center;
+
+
+}
+
+p.subtitle{
+    font-size: 20px;
+
+    text-align: center;
+
+
+}
+
+.emph{
+
+    font-family: cursive;
+    font-size: 15px;
+}

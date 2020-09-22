@@ -3,13 +3,36 @@ img {
 }
 
 .img1 {
+  
 }
 
 .img2 {
+  z-index:-1;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+ 
 }
 
 .img3 {
+
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  
+
 }
 
 .img4 {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
 }
